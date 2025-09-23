@@ -17,6 +17,8 @@
    - `total_cost` = `X` * `length` 
 7. **Конец**
 ### Блок-схема
+<img width="213" height="560" alt="image" src="https://github.com/user-attachments/assets/ebc47962-0217-431a-8880-cdaf040998d5" />
+
 https://github.com/polina22022/-/blob/main/lab_2_schema.png
 
 ## 2. Реализация программы
