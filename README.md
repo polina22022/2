@@ -20,6 +20,7 @@
 https://github.com/polina22022/-/blob/main/lab_2_schema.png
 
 ## 2. Реализация программы
+
 #include <stdio.h>
 
 #include <locale.h>
@@ -41,7 +42,7 @@ int main()
     printf("Грей заплатил %d золотых за ткань.\n", total_cost);
 
     return 0;
-} `
+} 
 ## 3. Результаты работы программы
 Грей заплатил 5000 золотых за ткань.
 
